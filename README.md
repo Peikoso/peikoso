@@ -12,7 +12,7 @@
 - **Tecnologias**: `Java`, `C#`, `Python`, `C`, `JavaScript`, `HTML`, `CSS`
 - **Frameworks**: `FastAPI`, `Vue.js`, `Spring Boot`, `Node.js`
 - **Estudando**: `Spring Boot`, `Node.js`
-- **Banco de Dados**: `PostgreSQL`, `SQLite`, `SQL`
+- **Banco de Dados**: `PostgreSQL`, `SQLite`, `MySQL`, `MongoDB`
 - **Outros**: `Git`, `Docker`, `Linux`, `Pydantic`, `SQLAlchemy`
 
 ---
