@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🎓 Estudante de Sistemas de Informação no IFBA – Feira de Santana<br>🔬 Pesquisador em Iniciação Científica com foco em Arquitetura Hexagonal e Engenharia de Software<br>💻 Apaixonado por tecnologia, desenvolvimento backend e soluções eficientes<br>🚀 Buscando oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos desafiadores</p>
 
 ###
@@ -49,18 +45,16 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/joão-martins-9464b4204" target="_blank">
+  <a href="https://linkedin.com/in/joão-martins-9464b4204" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peikoso/peikoso/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peikoso/peikoso/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/peikoso/peikoso/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/peikoso/peikoso/output/snake.svg" alt="Snake animation" />
 
 ###
 
