@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-![snake animation](https://raw.githubusercontent.com/Peikoso/peikoso/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/Peikoso/peikoso/output/snake.svg" alt="Snake animation" />
 
 ###
 
