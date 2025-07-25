@@ -9,8 +9,9 @@
 
 ## ⚙️ Tecnologias e Ferramentas
 
-- **Linguagens**: `Java`, `C#`, `Python`, `C`, `JavaScript`
-- **Frameworks**: `FastAPI`, `Vue.js`, `Spring Boot`, `Node.js` (estudando)
+- **Tecnologias**: `Java`, `C#`, `Python`, `C`, `JavaScript`, `HTML`, `CSS`
+- **Frameworks**: `FastAPI`, `Vue.js`, `Spring Boot`, `Node.js`
+- **Estudando**: `Spring Boot`, `Node.js`
 - **Banco de Dados**: `PostgreSQL`, `SQLite`, `SQL`
 - **Outros**: `Git`, `Docker`, `Linux`, `Pydantic`, `SQLAlchemy`
 
@@ -29,7 +30,7 @@ Sou autodidata, colaborativo e estou sempre em busca de novos desafios.
 Sistema completo com PostgreSQL, SQLAlchemy, FastAPI e validações com Pydantic. Inclui relatórios, views e auditoria.
 
 🔸 **Bot de WhatsApp com Node.js + FastAPI**  
-Integração entre API FastAPI e bot automatizado para envio de mensagens.
+Integração entre API FastAPI e bot automatizado para envio de mensagens via IA.
 
 🔸 **Estudo de Arquitetura Hexagonal**  
 Projeto de iniciação científica comparando MVC e Hexagonal em aplicações reais.
@@ -40,8 +41,8 @@ Projeto de iniciação científica comparando MVC e Hexagonal em aplicações re
 
 ## 📫 Contato
 
-- LinkedIn: [www.linkedin.com/in/joão-martins-9464b4204](www.linkedin.com/in/joão-martins-9464b4204)
-- GitHub: [github.com/peikoso](https://github.com/peikoso)
+- LinkedIn: [linkedin.com/in/joão-martins-9464b4204](https://linkedin.com/in/joão-martins-9464b4204)
+- GitHub: [github.com/Peikoso](https://github.com/Peikoso)
 
 ---
 
