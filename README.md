@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/peikoso/peikoso/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/peikoso/output/snake.svg" alt="Snake animation" />
 
 ###
 
