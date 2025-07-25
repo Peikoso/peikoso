@@ -1,49 +1,74 @@
-# 👋 Olá, eu sou João Martins!
+<h1 align="center">Hey 👋, I'm João Martins</h1>
 
-🎓 Estudante de **Sistemas de Informação** no IFBA – Feira de Santana  
-🔬 Pesquisador em **Iniciação Científica** com foco em **Arquitetura Hexagonal e Engenharia de Software**  
-💻 Apaixonado por tecnologia, desenvolvimento backend e soluções eficientes  
-🚀 Buscando oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos desafiadores  
+###
 
----
+<h2 align="left">About me</h2>
 
-## ⚙️ Tecnologias e Ferramentas
+###
 
-- **Tecnologias**: `Java`, `C#`, `Python`, `C`, `JavaScript`, `HTML`, `CSS`
-- **Frameworks**: `FastAPI`, `Vue.js`, `Spring Boot`, `Node.js`
-- **Estudando**: `Spring Boot`, `Node.js`
-- **Banco de Dados**: `PostgreSQL`, `SQLite`, `MySQL`, `MongoDB`
-- **Outros**: `Git`, `Docker`, `Linux`, `Pydantic`, `SQLAlchemy`
+<p align="left">🎓 Estudante de Sistemas de Informação no IFBA – Feira de Santana<br>🔬 Pesquisador em Iniciação Científica com foco em Arquitetura Hexagonal e Engenharia de Software<br>💻 Apaixonado por tecnologia, desenvolvimento backend e soluções eficientes<br>🚀 Buscando oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com projetos desafiadores</p>
 
----
+###
 
-## 📌 Sobre mim
+<h2 align="left">Languages and Tools:</h2>
 
-Sempre gostei de resolver problemas. Tenho boa análise crítica, raciocínio lógico-matemático e extrema facilidade para aprender.  
-Sou autodidata, colaborativo e estou sempre em busca de novos desafios.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-## 📚 Últimos projetos
+###
 
-🔸 **Sistema de Controle Financeiro Pessoal**  
-Sistema completo com PostgreSQL, SQLAlchemy, FastAPI e validações com Pydantic. Inclui relatórios, views e auditoria.
+<br clear="both">
 
-🔸 **Bot de WhatsApp com Node.js + FastAPI**  
-Integração entre API FastAPI e bot automatizado para envio de mensagens via IA.
+<h2 align="left">Connect with me:</h2>
 
-🔸 **Estudo de Arquitetura Hexagonal**  
-Projeto de iniciação científica comparando MVC e Hexagonal em aplicações reais.
+###
 
-> Veja todos os projetos nos repositórios públicos 👇
+<div align="left">
+  <a href="www.linkedin.com/in/joão-martins-9464b4204" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
----
+###
 
-## 📫 Contato
+<img src="https://raw.githubusercontent.com/peikoso/peikoso/output/snake.svg" alt="Snake animation" />
 
-- LinkedIn: [linkedin.com/in/joão-martins-9464b4204](https://linkedin.com/in/joão-martins-9464b4204)
-- GitHub: [github.com/Peikoso](https://github.com/Peikoso)
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peikoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peikoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-✨ Obrigado por visitar meu perfil!
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=peikoso.peikoso&"  />
+</div>
+
+###
